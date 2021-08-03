@@ -77,5 +77,18 @@
 
 > ssm综合实战项目：链接: https://pan.baidu.com/s/1910bqVV4WcWbRNkSAshV8g  密码: 6h02
 
+#### Java实战项目
+
+> springboot + springcloud + dubbo等微服务实战项目：链接: https://pan.baidu.com/s/1cmMcH6EtGEAut9OVN0ZGnw  密码: wicd
+
+> spring + springmvc + mybatis 物流管理系统：链接: https://pan.baidu.com/s/1WiS1mlKJftvQPqZpcFcbbQ  密码: 476d
+
+> springboot + springcloud + dubbo + ElasticSearch等商城项目：链接: https://pan.baidu.com/s/1mgWquV35XLdWaXOQY9_fpA  密码: bij5
+
+> springboot + springcloud + dubbo社区+社交项目：链接: https://pan.baidu.com/s/19jOrqcEszUyrqUaiNhAVNw  密码: ch88
+
+> 微服务 物流 + 商城项目：链接: https://pan.baidu.com/s/10SR1nC3nwvWXPMBqrurp_g  密码: ghu0
+
+
 
 持续更新中，请关注...
